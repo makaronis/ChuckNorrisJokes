@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ChuckNorrisJokes</string>
+    <string name="jokes_fragment">Jokes</string>
+    <string name="web_fragment">Web</string>
+    <string name="reload">Reload</string>
+    <string name="count">Count</string>
 </resources>
